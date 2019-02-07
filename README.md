@@ -1,2 +1,2 @@
 # MILLION LIVE! Idol Prediction
-Character-level CNN text classification with Pytorch
+Character-level CNN text classification with PyTorch
