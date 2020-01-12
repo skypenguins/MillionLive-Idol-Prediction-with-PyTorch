@@ -1,2 +1,2 @@
-# MILLION LIVE! Idol Prediction
-Character-level CNN text classification with PyTorch
+# Million Live idol prediction
+Predict an idol name of Million Live based on the script.
